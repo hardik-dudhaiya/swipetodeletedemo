@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TEST Android</string>
+
+    <!-- bottom navigationview items -->
+    <string name="bottom_home">Home</string>
+    <string name="bottom_details">Details</string>
+    <string name="bottom_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment_details">Fragment Details</string>
+    <string name="fragment_profile">Fragment Profile</string>
+</resources>
